@@ -1,0 +1,26 @@
+{
+  "name": "week-3",
+  "version": "1.0.0",
+  "description": "Data Visualization by University of Illinois at Urbana-Champaign",
+  "main": "index.html",
+  "scripts": {
+    "start:dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ms-Textaholic/data-visualization.git"
+  },
+  "author": "Ms_Textaholic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ms-Textaholic/data-visualization/issues"
+  },
+  "homepage": "https://github.com/Ms-Textaholic/data-visualization#readme",
+  "dependencies": {
+    "echarts": "^4.8.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
